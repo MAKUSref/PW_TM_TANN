@@ -4,5 +4,5 @@
 
 | Name Surname (initials) | GUID                                     |
 | ----------------------- | ---------------------------------------- |
-| Tomasz Makowski         | `{FD9D086C-532F-4AAC-BB99-69D7798837D8}` |
-| Trung Anh Nguyen Nang   | `{44FBFCF5-4430-4964-878D-1867DC679E0D}` |
+| Tomasz Makowski         | `{45edee08-b6a3-4add-8301-034fd3d5810f}` |
+| Trung Anh Nguyen Nang   | `{f378784c-991a-4dd0-b3b7-5b9888f08219}` |

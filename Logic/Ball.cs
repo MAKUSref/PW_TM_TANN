@@ -8,16 +8,16 @@ namespace Logic
 {
     public class Ball
     {
-        private int _x;
-        private int _y;
+        private double _x;
+        private double _y;
 
-        public Ball()
+        public Ball(double x = 0, double y = 0)
         {
-            _x = 0;
-            _y = 0;
+            _x = x;
+            _y = y;
         }
 
-        public int X { get => _x; set => _x = value; }
-        public int Y { get => _y; set => _y = value; }
+        public double X { get => _x; set => _x = value; }
+        public double Y { get => _y; set => _y = value; }
     }
 }

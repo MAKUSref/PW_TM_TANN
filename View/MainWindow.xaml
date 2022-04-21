@@ -7,28 +7,31 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="500" Width="900">
     <Grid>
+
         <Grid.RowDefinitions>
             <RowDefinition Height="43*">
             </RowDefinition>
+
             <RowDefinition Height="174*">
+
             </RowDefinition>
         </Grid.RowDefinitions>
+
         <Button
             Content="stop"
             VerticalAlignment="Center"
             Command="{Binding Stop}"
             Height="28" Width="72"
             Canvas.Left="99" Canvas.Top="32"
-            HorizontalAlignment="Left" Margin="726,0,0,0" />
+            HorizontalAlignment="Left" Margin="725,0,0,0" />
         <Button
             Content="start"
             VerticalAlignment="Center"
             Command="{Binding Start}"
             Height="28" Width="72"
             Canvas.Left="567" Canvas.Top="32"
-            HorizontalAlignment="Left" Margin="102,0,0,0" />
+            HorizontalAlignment="Left" Margin="86,0,0,0" />
         <TextBlock
-            
             VerticalAlignment="Top"
             Height="28" Width="100"
             HorizontalAlignment="Left" Margin="200,35,0,0">
@@ -59,7 +62,15 @@
             Padding="0 5 0 0"
             TextWrapping="Wrap"
             VerticalAlignment="Center"
-            Height="303"
-            Canvas.Left="350" Canvas.Top="32" Margin="102,0,102,0" Grid.Row="1" />
+            Height="339"
+            Canvas.Left="350" Canvas.Top="32" Margin="86,0,86,0" Grid.Row="1" />
+        <Rectangle
+            Stroke="Black"
+            StrokeThickness="4"
+            Height="{Binding RectHeight}" Width="{Binding RectWidth}" Grid.RowSpan="1" />
+        <Rectangle
+            Stroke="Black"
+            StrokeThickness="4"
+            Height="{Binding RectHeight}" Width="{Binding RectWidth}" Grid.Row="1" />
     </Grid>
 </Window>

@@ -5,8 +5,61 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:View"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="500" Width="900">
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="43*">
+            </RowDefinition>
+            <RowDefinition Height="174*">
+            </RowDefinition>
+        </Grid.RowDefinitions>
+        <Button
+            Content="stop"
+            VerticalAlignment="Center"
+            Command="{Binding Stop}"
+            Height="28" Width="72"
+            Canvas.Left="99" Canvas.Top="32"
+            HorizontalAlignment="Left" Margin="726,0,0,0" />
+        <Button
+            Content="start"
+            VerticalAlignment="Center"
+            Command="{Binding Start}"
+            Height="28" Width="72"
+            Canvas.Left="567" Canvas.Top="32"
+            HorizontalAlignment="Left" Margin="102,0,0,0" />
+        <TextBlock
+            
+            VerticalAlignment="Top"
+            Height="28" Width="100"
+            HorizontalAlignment="Left" Margin="200,35,0,0">
+            number of balls
 
+        </TextBlock>
+        <Button
+            Content="refresh"
+            VerticalAlignment="Center"
+            Command="{Binding Start}"
+            Height="28" Width="72"
+            Canvas.Left="567" Canvas.Top="32"
+            HorizontalAlignment="Left" Margin="467,0,0,0" />
+        <TextBox
+            TextAlignment="Center"
+            MaxLength="4"
+            FontSize="20pt"
+            Padding="0 5 0 0"
+            TextWrapping="Wrap"
+            Text="{Binding BallNumber, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}"
+            VerticalAlignment="Center"
+            Height="28"
+            Canvas.Left="350" Canvas.Top="32" Margin="300,0,450,0" />
+        <TextBox
+            TextAlignment="Center"
+            MaxLength="4"
+            FontSize="20pt"
+            Padding="0 5 0 0"
+            TextWrapping="Wrap"
+            VerticalAlignment="Center"
+            Height="303"
+            Canvas.Left="350" Canvas.Top="32" Margin="102,0,102,0" Grid.Row="1" />
     </Grid>
 </Window>

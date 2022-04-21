@@ -8,13 +8,17 @@ namespace Logic
 {
     public class BallFactory
     {
-        public static List<Ball> CreateBalls(int num)
+        public static List<Ball> CreateBalls(int num, int width, int height)
         {
+            Random random = new Random();
             List<Ball> list = new List<Ball>();
 
             for (int i = 0; i < num; i++)
             {
-                Ball ball = new Ball();
+                int randomX = random.Next(width);
+                int randomY = random.Next(height);
+
+                Ball ball = new Ball(randomX, randomY);
                 list.Add(ball);
             }
 

@@ -1,15 +1,35 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Logic;
 
-namespace Logic.LogicTests
+namespace LogicTests
 {
     [TestClass]
-    internal class BallTest
+    public class BallTest
     {
         [TestMethod]
-        public void add()
+        public void ballConstructorTest()
         {
+            int x = 1;
+            int y = 2;
+
+            Ball ball = new Ball(x, y);
+
+            Assert.AreEqual(ball.X, x);
+            Assert.AreEqual(ball.Y, y);
+        }
+
+        [TestMethod]
+        public void ballSettersTest()
+        {
+            int x = 1;
+            int y = 2;
+
             Ball ball = new Ball();
-            Assert.AreEqual(1, 2);
+            ball.X = x;
+            ball.Y = y;
+
+            Assert.AreEqual(ball.X, x);
+            Assert.AreEqual(ball.Y, y);
         }
     }
 }

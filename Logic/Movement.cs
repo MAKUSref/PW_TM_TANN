@@ -35,7 +35,7 @@ namespace Logic
             }
         }
 
-        public void stopMoving()
+        public void StopMoving()
         {
             _ballsMoving = true;
         }

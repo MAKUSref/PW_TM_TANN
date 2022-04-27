@@ -9,6 +9,7 @@ namespace LogicTests
     public class MovementTest
     {
         int width, height;
+        int ballsNumber = 5;
         List<Ball> balls;
 
         [TestInitialize]
@@ -16,14 +17,14 @@ namespace LogicTests
         {
             width = 200;
             height = 100;
-            balls = BallFactory.CreateBalls(5, width, height);
+            balls = BallFactory.CreateBalls(ballsNumber, width, height);
         }
 
         [TestMethod]
         public void movementConstructorTest()
         {
             Movement movement = new Movement(balls);
-            Assert.IsNotNull(movement.Balls);
+            Assert.AreEqual(movement.Balls.Count, ballsNumber);
         }
     }
 }

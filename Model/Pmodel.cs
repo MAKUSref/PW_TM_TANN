@@ -5,18 +5,26 @@ namespace Model
 {
     public abstract class Pmodel
     {
-        /*
-        public abstract int RectWidth { get; }
-        public abstract int RectHeight { get; }
-        public abstract ObservableCollection<Ball> Balls(int ballNumber);
-        public static Model CreateApi()
+        public abstract List<Ball> Balls(int ballNumber, int rectWidth, int rectHeight);
+        public abstract void Animation(IList balls); //ruch
+
+        public abstract void StopAnimation();   //zatrzymanie
+        /*public static Pmodel CreateApi()
         {
             return new ModelAPI();
         }*/
-        //public abstract List<Ball> Balls { get; set; }
-        //public abstract Movement movement { get; set; }
 
 
-        
     }
+    /*internal class ModelAPI : Pmodel
+    {
+        private readonly BallFactory factory = new BallFactory();
+        public override List<Ball> Balls(int ballNumber, int rectWidth, int rectHeight)
+        => factory.CreateBalls(ballNumber,rectWidth,rectHeight);
+
+        public override void Animation(IList balls)
+        => factory.Target((ObservableCollection<Ball>)balls);
+
+        public override void StopAnimation() => factory.Exit();
+}*/
 }

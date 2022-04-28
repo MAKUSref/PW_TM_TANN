@@ -5,15 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:vm="clr-namespace:ViewModel;assembly=ViewModel"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="900">
-
-        <Window.Resources>
-            <vm:ViewModelBase x:Key="viewModel"/>
-        </Window.Resources>
-
-        <Grid>
+        Title="MainWindow" Height="560" Width="915"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
         
+    <Window.Resources>
+        <vm:ViewModelBase x:Key="viewModel"/>
+    </Window.Resources>
 
+    <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="43*">
             </RowDefinition>
@@ -23,61 +23,55 @@
             </RowDefinition>
         </Grid.RowDefinitions>
 
-        <Button
+        <Canvas>
+            <Button
             Content="stop"
-            VerticalAlignment="Center"
+            VerticalAlignment="Top"
             Command="{Binding Stop}"
             Height="28" Width="72"
-            Canvas.Left="99" Canvas.Top="32"
-            HorizontalAlignment="Left" Margin="725,0,0,0" />
-        <Button 
+            Canvas.Left="464" Canvas.Top="35"
+            HorizontalAlignment="Left" />
+            <Button 
             Content="start"
-            VerticalAlignment="Center"
+            VerticalAlignment="Top"
             Command="{Binding Path=RelayCommand, Source={StaticResource viewModel}}"
             Height="28" Width="72"
-            Canvas.Left="567" Canvas.Top="32"
-            HorizontalAlignment="Left" Margin="86,0,0,0" />
-        <TextBlock
+            Canvas.Left="47" Canvas.Top="35"
+            HorizontalAlignment="Left" />
+            <TextBlock
             VerticalAlignment="Top"
+            Margin="0,7,0,0"
             Height="28" Width="100"
-            HorizontalAlignment="Left" Margin="200,35,0,0">
+            HorizontalAlignment="Left" Canvas.Left="200" Canvas.Top="32">
             number of balls
 
-        </TextBlock>
-        <Button
+            </TextBlock>
+            <Button
             Content="refresh"
-            VerticalAlignment="Center"
+            VerticalAlignment="Top"
             Command="{Binding Start}"
             Height="28" Width="72"
-            Canvas.Left="567" Canvas.Top="32"
-            HorizontalAlignment="Left" Margin="467,0,0,0" />
-        <TextBox
+            Canvas.Left="735" Canvas.Top="35"
+            HorizontalAlignment="Left" />
+            <TextBox
             TextAlignment="Center"
             MaxLength="4"
-            FontSize="20pt"
+            FontSize="10pt"
             Padding="0 5 0 0"
             TextWrapping="Wrap"
             Text="{Binding BallNumber, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}"
             VerticalAlignment="Center"
             Height="28"
-            Canvas.Left="350" Canvas.Top="32" Margin="300,0,450,0" />
-        <TextBox
-            TextAlignment="Center"
-            MaxLength="4"
-            FontSize="20pt"
-            Padding="0 5 0 0"
-            TextWrapping="Wrap"
-            VerticalAlignment="Center"
-            Height="339"
-            Canvas.Left="350" Canvas.Top="32" Margin="86,0,86,0" Grid.Row="1"
-            />
-        <Rectangle
+            Canvas.Left="300" Canvas.Top="32" HorizontalAlignment="Left" Width="110" />
+            <Rectangle
+            Stroke="Black"
+            StrokeThickness="10"
+            Height="486" Width="900" Grid.RowSpan="1" />
+            <Rectangle
             Stroke="Black"
             StrokeThickness="4"
-            Height="{Binding RectHeight}" Width="{Binding RectWidth}" Grid.RowSpan="1" />
-        <Rectangle
-            Stroke="Black"
-            StrokeThickness="4"
-            Height="{Binding RectHeight}" Width="{Binding RectWidth}" Grid.Row="1" />
+            Height="96" Width="900" Grid.Row="1" />
+            
+        </Canvas>
     </Grid>
 </Window>

@@ -3,10 +3,16 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:View"
+        xmlns:vm="clr-namespace:ViewModel;assembly=ViewModel"
         mc:Ignorable="d"
         Title="MainWindow" Height="500" Width="900">
-    <Grid>
+
+        <Window.Resources>
+            <vm:ViewModelBase x:Key="viewModel"/>
+        </Window.Resources>
+
+        <Grid>
+        
 
         <Grid.RowDefinitions>
             <RowDefinition Height="43*">
@@ -24,10 +30,10 @@
             Height="28" Width="72"
             Canvas.Left="99" Canvas.Top="32"
             HorizontalAlignment="Left" Margin="725,0,0,0" />
-        <Button
+        <Button 
             Content="start"
             VerticalAlignment="Center"
-            Command="{Binding Start}"
+            Command="{Binding Path=RelayCommand, Source={StaticResource viewModel}}"
             Height="28" Width="72"
             Canvas.Left="567" Canvas.Top="32"
             HorizontalAlignment="Left" Margin="86,0,0,0" />
@@ -63,7 +69,8 @@
             TextWrapping="Wrap"
             VerticalAlignment="Center"
             Height="339"
-            Canvas.Left="350" Canvas.Top="32" Margin="86,0,86,0" Grid.Row="1" />
+            Canvas.Left="350" Canvas.Top="32" Margin="86,0,86,0" Grid.Row="1"
+            />
         <Rectangle
             Stroke="Black"
             StrokeThickness="4"

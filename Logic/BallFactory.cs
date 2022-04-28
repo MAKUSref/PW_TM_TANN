@@ -8,15 +8,15 @@ namespace Logic
 {
     public class BallFactory
     {
-        public static List<Ball> CreateBalls(int num, int width, int height)
+        public static List<Ball> CreateBalls(int num, int rectWidth, int rectHeight)
         {
             Random random = new Random();
             List<Ball> list = new List<Ball>();
 
             for (int i = 0; i < num; i++)
             {
-                int randomX = random.Next(width);
-                int randomY = random.Next(height);
+                int randomX = random.Next(rectWidth);
+                int randomY = random.Next(rectHeight);
 
                 Ball ball = new Ball(randomX, randomY);
                 list.Add(ball);

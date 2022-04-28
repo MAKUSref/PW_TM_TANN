@@ -16,11 +16,14 @@ namespace ViewModel
         int radius = 5;
         Movement movement = new Movement(BallFactory.CreateBalls(5, 200, 100));
 
-        public void HandleStartBalls()
+        public async void HandleStartBalls()
         {
-            movement.StartMoving();
+            await movement.StartMoving();
         }
         
-        
+        public void HandleEndBalls()
+        {
+            movement.StopMoving();
+        }
     }
 }

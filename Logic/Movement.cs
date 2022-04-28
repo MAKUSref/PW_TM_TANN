@@ -22,7 +22,7 @@ namespace Logic
 
         public List<Ball> Balls { get => _balls; }
 
-        public async void StartMoving()
+        public async Task StartMoving()
         {
             _ballsMoving = true;
 

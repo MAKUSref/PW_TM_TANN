@@ -23,7 +23,7 @@
             </RowDefinition>
         </Grid.RowDefinitions>
 
-        <Canvas>
+        <Canvas Grid.RowSpan="2">
             <Button
             Content="stop"
             VerticalAlignment="Top"

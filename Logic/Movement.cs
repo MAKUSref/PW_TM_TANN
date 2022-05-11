@@ -22,18 +22,7 @@ namespace Logic
 
         public List<Ball> Balls { get => _balls; }
 
-        public async Task StartMoving()
-        {
-            _ballsMoving = true;
-
-            while (_ballsMoving)
-            {
-                foreach (Ball ball in _balls)
-                {
-                    await MoveBall(ball);
-                }
-            }
-        }
+        
 
         public void StopMoving()
         {
@@ -41,19 +30,7 @@ namespace Logic
         }
 
         // private
-        private async Task MoveBall(Ball ball)
-        {
-            if (ball == null) return;
-
-            Thread.Sleep(5);
-            double shiftX = await Task.Run(() => GenerateShift());
-
-            Thread.Sleep(5);
-            double shiftY = await Task.Run(() => GenerateShift());
-
-            ball.X += shiftX;
-            ball.Y += shiftY;
-        }
+        
 
         private double GenerateShift()
         {

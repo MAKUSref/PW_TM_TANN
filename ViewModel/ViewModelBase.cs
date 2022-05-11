@@ -40,13 +40,7 @@ namespace ViewModel
             }
         }
 
-        public async void ShowBalls()
-        {
-            _balls = modelAPI.Balls(_ballsNumber, 800, 100);
-            movement = modelAPI.CreateMovement(_balls);
-            await modelAPI.StartAnimation(movement, _balls);
-
-        }
+      
 
         public void StopBalls()
         {

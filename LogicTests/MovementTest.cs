@@ -37,7 +37,7 @@ namespace LogicTests
             double secondX = movement.Balls[1].X;
             double secondY = movement.Balls[1].Y;
 
-            movement.StartMoving();
+            
             Thread.Sleep(200);
 
             movement.StopMoving();

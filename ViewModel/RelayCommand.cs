@@ -22,9 +22,9 @@ namespace ViewModel
             return true;
         }
 
-        public void Execute(object parameter)
+        public void Execute(object? parameter)
         {
-            this.ViewModel.ShowBalls();
+            throw new NotImplementedException();
         }
     }
 }

@@ -9,7 +9,7 @@ namespace Model
         public abstract List<Ball> Balls(int ballNumber, int rectWidth, int rectHeight);
 
         public abstract Movement CreateMovement(List<Ball> balls);
-        public abstract Task StartAnimation(Movement instance, List<Ball> balls); //ruch
+        
 
         public abstract void StopAnimation(Movement instance);   //zatrzymanie
 
@@ -27,8 +27,7 @@ namespace Model
         public override Movement CreateMovement(List<Ball> balls) => new Movement(balls);
 
 
-        public override async Task StartAnimation(Movement instance, List<Ball> balls)
-        => await instance.StartMoving();
+       
 
         public override void StopAnimation(Movement instance) => instance.StopMoving();
     }

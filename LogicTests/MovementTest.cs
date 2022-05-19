@@ -6,6 +6,7 @@ using Logic;
 
 namespace LogicTests
 {
+    /*
     [TestClass]
     public class MovementTest
     {
@@ -54,5 +55,6 @@ namespace LogicTests
             Assert.AreNotEqual(secondX, secondXAfterMove);
             Assert.AreNotEqual(secondY, secondYAfterMove);
         }
+    */
     }
 }

@@ -10,7 +10,7 @@ namespace Data
     {
         private readonly double sizeX;
         private readonly double sizeY;
-        private List<Ball> balls;
+        private List<Ball> balls = new List<Ball>();
 
         public Container(double sizeX, double sizeY)
         {
@@ -24,10 +24,7 @@ namespace Data
 
         public void addBall(Ball ball)
         {
-            if (ball != null)
-            {
-                balls.Add(ball);
-            }
+            balls.Add(ball);
         }
 
     }

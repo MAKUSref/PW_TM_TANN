@@ -19,7 +19,7 @@ namespace Model
             set => observableBallCollection = value;
         }
 
-        public AbstractLogicAPI LogicAPI { get; set; }
+        public AbstractLogicAPI LogicAPI { get { return logicAPI; } }
 
         public abstract void start();
         public abstract void stop();

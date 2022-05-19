@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Model
 {
-    internal class ModelAdapter : INotifyPropertyChanged
+    public class ModelAdapter : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler PropertyChanged;
         private double radius;

@@ -1,30 +1,35 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Input;
+﻿using System.Windows.Input;
 
 namespace ViewModel
 {
     public class RelayCommand : ICommand
     {
-        public ViewModelBase ViewModel { get; set; }
-        public RelayCommand(ViewModelBase viewModel)
-        {
-            this.ViewModel = viewModel;
-        }
+        private readonly Action<object> _execute;
+        private readonly Predicate<object> _canExecute;
 
-        public event EventHandler? CanExecuteChanged;
+        public RelayCommand(Action<object> execute) : this(execute, null) { }
+
+        public RelayCommand(Action<object> execute, Predicate<object> canExecute)
+        {
+            _execute = execute;
+            _canExecute = canExecute;
+        }
 
         public bool CanExecute(object parameter)
         {
-            return true;
+            return _canExecute == null || _canExecute(parameter);
         }
 
-        public void Execute(object parameter)
+        public virtual void Execute(object parameter)
         {
-            this.ViewModel.ShowBalls();
+            _execute(parameter);
+        }
+
+        public event EventHandler CanExecuteChanged;
+
+        internal void RaiseCanExecuteChanged()
+        {
+            CanExecuteChanged?.Invoke(this, EventArgs.Empty);
         }
     }
 }

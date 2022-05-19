@@ -5,31 +5,59 @@ namespace Model
 {
     public abstract class Pmodel
     {
+        private readonly AbstractLogicAPI logicAPI;
+        private ObservableCollection<ModelAdapter> observableBallCollection = new ObservableCollection<ModelAdapter>();
 
-        public abstract List<Ball> Balls(int ballNumber, int rectWidth, int rectHeight);
+        public Pmodel(AbstractLogicAPI logicAPI)
+        {
+            this.logicAPI = logicAPI ?? AbstractLogicAPI.createLogicAPI();
+        }
 
-        public abstract Movement CreateMovement(List<Ball> balls);
-        public abstract Task StartAnimation(Movement instance, List<Ball> balls); //ruch
+        public ObservableCollection<ModelAdapter> ObservableBallCollection
+        {
+            get => observableBallCollection;
+            set => observableBallCollection = value;
+        }
 
-        public abstract void StopAnimation(Movement instance);   //zatrzymanie
+        public AbstractLogicAPI LogicAPI { get; set; }
 
-        public static Pmodel CreateApi()
+        public abstract void start();
+        public abstract void stop();
+        public abstract void createBalls(int numberOfBalls);
+        public abstract void addBall();
+
+        public static Pmodel createPmodelAPI()
         {
             return new ModelAPI();
         }
-
     }
     public class ModelAPI : Pmodel
     {
-        public override List<Ball> Balls(int ballNumber, int rectWidth, int rectHeight)
-        => BallFactory.CreateBalls(ballNumber, rectWidth, rectHeight);
+        public ModelAPI(AbstractLogicAPI logicAPI = null) : base(logicAPI) { }
 
-        public override Movement CreateMovement(List<Ball> balls) => new Movement(balls);
+        public override void start()
+        {
+            LogicAPI.start();
+            foreach (Board b in LogicAPI.GetBalls())
+            {
+                ObservableBallCollection.Add(new ModelAdapter(b));
+            }
+        }
 
+        public override void createBalls(int numberOfBalls)
+        {
+            LogicAPI.createBalls(numberOfBalls);
+        }
 
-        public override async Task StartAnimation(Movement instance, List<Ball> balls)
-        => await instance.StartMoving();
+        public override void stop()
+        {
+            LogicAPI.stop();
+        }
 
-        public override void StopAnimation(Movement instance) => instance.StopMoving();
+        public override void addBall()
+        {
+            LogicAPI.createBall();
+            ObservableBallCollection.Add(new ModelAdapter(LogicAPI.GetBalls()[LogicAPI.GetBalls().Count - 1]));
+        }
     }
 }

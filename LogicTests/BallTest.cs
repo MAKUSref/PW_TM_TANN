@@ -6,6 +6,7 @@ namespace LogicTests
     [TestClass]
     public class BallTest
     {
+        /*
         [TestMethod]
         public void ballConstructorTest()
         {
@@ -31,5 +32,6 @@ namespace LogicTests
             Assert.AreEqual(ball.X, x);
             Assert.AreEqual(ball.Y, y);
         }
+        */
     }
 }

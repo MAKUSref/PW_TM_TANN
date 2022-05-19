@@ -4,25 +4,25 @@ namespace ViewModel
 {
     public class RelayCommand : ICommand
     {
-        private readonly Action<object> _execute;
-        private readonly Predicate<object> _canExecute;
+        private readonly Action<object> m_Execute;
+        private readonly Predicate<object> m_CanExecute;
 
         public RelayCommand(Action<object> execute) : this(execute, null) { }
 
         public RelayCommand(Action<object> execute, Predicate<object> canExecute)
         {
-            _execute = execute;
-            _canExecute = canExecute;
+            m_Execute = execute;
+            m_CanExecute = canExecute;
         }
 
         public bool CanExecute(object parameter)
         {
-            return _canExecute == null || _canExecute(parameter);
+            return m_CanExecute == null || m_CanExecute(parameter);
         }
 
         public virtual void Execute(object parameter)
         {
-            _execute(parameter);
+            m_Execute(parameter);
         }
 
         public event EventHandler CanExecuteChanged;

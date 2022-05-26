@@ -3,56 +3,39 @@ using System.Runtime.CompilerServices;
 
 namespace Data
 {
-    public class Ball : INotifyPropertyChanged
+    internal class Ball : IBall, INotifyPropertyChanged
     {
-        private double positionX;
-        private double positionY;
-        private readonly double radius;
-        private double mass = 5;
-
-        public Ball(double positionX, double positionY, double radius)
+        internal Ball(int xPosition, int yPosition)
         {
-            this.positionX = positionX;
-            this.positionY = positionY;
-            this.radius = radius;
-        }
+            XPosition = xPosition;
+            YPosition = yPosition;
 
-        public double Mass { get { return mass; } }
-
-        public double PositionX 
-        {            
-            get { return positionX; } 
-            set 
-            { 
-                positionX = value;
-                RaisePropertyChanged();
-            }
-        }
-
-        public double PositionY
-        {
-            get { return positionY; }
-            set
+            Radius = 15;
+            mass = 10;
+            Random rnd = new Random();
+            do
             {
-                positionY = value;
-                RaisePropertyChanged();
-            }
+                vx = rnd.Next(-3, 3);
+                vy = rnd.Next(-3, 3);
+            } while (vx == 0 || vy == 0);
         }
 
-        public double Radius { get { return radius; } }
-
-        public void updateBall(double velocityX, double velocityY)
+        override public void move()  
         {
-            PositionX += velocityX;
-            positionY += velocityY;
+
+            XPosition += vx;
+            YPosition += vy;
+
+            RaisePropertyChanged();
         }
 
-        // Property change
-        public event PropertyChangedEventHandler PropertyChanged;
-
-        protected virtual void RaisePropertyChanged([CallerMemberName] string propertyName = null)
+        private void RaisePropertyChanged([CallerMemberName] string? propertyName = null)
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
+
+        public override event PropertyChangedEventHandler PropertyChanged;
+
+
     }
 }

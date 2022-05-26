@@ -4,14 +4,14 @@ namespace Logic
 {
     internal class BallsManager : ILogic
     {
-        internal  readonly int _Radius = 15;
-        internal  readonly List<IBall> _ballStorage = new();
+        internal readonly int _Radius = 15;
+        internal readonly List<IBall> ballContainer = new();
 
         public void assignThreads()
         {
             threads = new List<Thread>();
 
-            foreach (IBall ball in _ballStorage)
+            foreach (IBall ball in ballContainer)
             {
                 Thread t = new Thread(() =>
                 {
@@ -21,7 +21,7 @@ namespace Logic
                         BounceIfOnEdge(ball);
                         lock (_lock)
                         {
-                            ResolveCollisionsWithBalls(ball);
+                            CollisionsWithBalls(ball);
                         }
                         //System.Diagnostics.Debug.WriteLine("Ball dir=" + ball.dir.ToString() + ", speed=" + ball.speed.ToString());
                         Thread.Sleep(5);
@@ -39,9 +39,9 @@ namespace Logic
             if (!isMoving)
             {
                 isMoving = true;
-                foreach (Thread t in threads) 
+                foreach (Thread t in threads)
                 {
-                    t.Start(); 
+                    t.Start();
                 }
             }
         }
@@ -53,7 +53,7 @@ namespace Logic
             {
                 int xPos = rnd.Next(_Radius, Box.width - _Radius);
                 int yPos = rnd.Next(_Radius, Box.height - _Radius);
-                _ballStorage.Add(IBall.getBall(xPos, yPos));
+                ballContainer.Add(IBall.getBall(xPos, yPos));
             }
         }
 
@@ -78,7 +78,7 @@ namespace Logic
             }
         }
 
-        private void ResolveCollisionsWithBalls(IBall ball)
+        private void CollisionsWithBalls(IBall ball)
         {
             IBall? collided = FindCollidingBall(ball);
             if (collided != null)
@@ -100,7 +100,7 @@ namespace Logic
 
         private IBall? FindCollidingBall(IBall ball)
         {
-            foreach (IBall other in _ballStorage)
+            foreach (IBall other in ballContainer)
             {
                 if (other == ball)
                     continue;
@@ -116,13 +116,13 @@ namespace Logic
         {
             isMoving = false;
             threads.Clear();
-            _ballStorage.Clear();
+            ballContainer.Clear();
         }
 
         override public List<IBall2> GetAllBalls()
         {
-            List<IBall2> list = new (); 
-            foreach (IBall ball in _ballStorage)
+            List<IBall2> list = new();
+            foreach (IBall ball in ballContainer)
             {
                 list.Add(new Ball2(ball.XPosition, ball.YPosition));
             }
@@ -131,7 +131,7 @@ namespace Logic
         override public List<IBall> GetOldBalls()
         {
             List<IBall> list = new();
-            foreach (IBall ball in _ballStorage)
+            foreach (IBall ball in ballContainer)
             {
                 list.Add(ball);
             }

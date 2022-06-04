@@ -20,7 +20,7 @@ namespace Data
             } while (vx == 0 || vy == 0);
         }
 
-        override public void move()  
+        override public void move()
         {
 
             XPosition += vx;

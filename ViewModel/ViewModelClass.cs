@@ -1,13 +1,14 @@
-﻿using Presentation.ViewModel.MVVMcore;
-using Presentation.Model;
+﻿
+using Model;
 using System;
 using System.Threading.Tasks;
 using static Logic.ILogic;
 using Logic;
+using ViewModel;
 
 namespace Presentation.ViewModel
 {
-    internal class ViewModelClass : BaseViewModel
+    public class ViewModelClass : BaseViewModel
     {
         private string _ballsAmount;
         public RelayCommand _summon { get; }
@@ -20,7 +21,7 @@ namespace Presentation.ViewModel
         public bool _resumeFlag = false;
         public bool _pauseFlag = false;
 
-        public Window _Window { get; }
+        public ModelClass _Window { get; }
 
         public int _width { get; }
         public int _height { get; }
@@ -34,7 +35,7 @@ namespace Presentation.ViewModel
             _clear = new RelayCommand(Clear, ClearProperties);
             _resume = new RelayCommand(Resume, ResumeProperties);
             _pause = new RelayCommand(Pause, PauseProperties);
-            _Window = new Window(_width, _height);
+            _Window = new ModelClass(_width, _height);
             SummonFlag = true;
             ClearFlag = false;
             ResumeFlag = false;

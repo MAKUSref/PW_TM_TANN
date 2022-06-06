@@ -1,9 +1,9 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Data;
 using Logic;
 using System.Collections.Generic;
 
-namespace Tests.DataLayerTest
+namespace Tests
 {
     [TestClass]
     public class DataTest
@@ -39,14 +39,14 @@ namespace Tests.DataLayerTest
             api.isMoving = true;
             api.SummonBalls(1);
             List<IBall> balls = api.GetOldBalls();
-            
+
             balls[0].XPosition = 50;
             Assert.AreEqual(balls[0].XPosition, 50);
             balls[0].YPosition = 10;
             Assert.AreEqual(balls[0].YPosition, 10);
             balls[0].vx = 15;
             Assert.AreEqual(balls[0].vx, 15);
-            balls[0].vy = 60;            
+            balls[0].vy = 60;
             Assert.AreEqual(balls[0].vy, 60);
             balls[0].move();
             Assert.AreEqual(balls[0].XPosition, 65);

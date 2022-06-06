@@ -1,11 +1,10 @@
-using Logic;
+﻿using Logic;
 using Data;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using System;
-using Moq;
 
-namespace Tests.LogicLayerTest
+namespace Tests
 {
     [TestClass]
     public class LogicTest

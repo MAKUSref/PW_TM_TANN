@@ -13,7 +13,7 @@ namespace Logic
         public static ILogic Create(int width, int height)
         {
             Box.width = width;
-            Box.height = height;    
+            Box.height = height;
             return new BallsManager();
         }
 

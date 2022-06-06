@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Windows.Input;
 
-namespace Presentation.ViewModel.MVVMcore
+namespace ViewModel
 {
-    internal class RelayCommand : ICommand
+    public class RelayCommand : ICommand
     {
         public event EventHandler? CanExecuteChanged;
         private readonly Action _canBeExecuteAction;

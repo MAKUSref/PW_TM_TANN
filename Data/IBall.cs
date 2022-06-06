@@ -2,7 +2,7 @@
 
 namespace Data
 {
-    public abstract class IBall 
+    public abstract class IBall
     {
         public static IBall getBall(int x, int y)
         {
@@ -27,6 +27,6 @@ namespace Data
     {
         public static int width { get; set; }
         public static int height { get; set; }
-        
+
     }
 }

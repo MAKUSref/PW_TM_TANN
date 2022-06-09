@@ -7,7 +7,7 @@ namespace ViewModelTests
     public class MainViewModelTest
     {
         private TestModel _testModel = new(10, 10);
-        private MainViewModel? _mainViewModel;
+        private ViewModelClass? _mainViewModel;
         
         [TestInitialize]
         public void TestInitialize()

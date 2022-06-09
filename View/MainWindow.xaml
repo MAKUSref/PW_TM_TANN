@@ -11,7 +11,7 @@
     xmlns:vm="clr-namespace:Presentation.ViewModel;assembly=ViewModel"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <Window.DataContext>
-        <vm:MainViewModel />
+        <vm:ViewModelClass />
     </Window.DataContext>
     <Grid>
         <Label

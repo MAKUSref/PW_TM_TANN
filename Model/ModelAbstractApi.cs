@@ -7,7 +7,7 @@ namespace Presentation.Model
     {
         public static ModelAbstractApi CreateApi(LogicAbstractApi? logicLayer = null)
         {
-            return new MainModel(logicLayer ?? LogicAbstractApi.CreateApi(580, 580));
+            return new ModelClass(logicLayer ?? LogicAbstractApi.CreateApi(580, 580));
         }
 
         public abstract ObservableCollection<ICircle> GetCircles();

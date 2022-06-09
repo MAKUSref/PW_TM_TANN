@@ -4,17 +4,17 @@ using Presentation.ViewModel.MVVMCore;
 
 namespace Presentation.ViewModel
 {
-    public class MainViewModel : BaseViewModel
+    public class ViewModelClass : BaseViewModel
     {
         private readonly ModelAbstractApi _modelLayer;
         private bool _buttonEnabled = true;
         private string _numOfBalls = "";
 
-        public MainViewModel() : this(ModelAbstractApi.CreateApi())
+        public ViewModelClass() : this(ModelAbstractApi.CreateApi())
         {
         }
 
-        public MainViewModel(ModelAbstractApi modelLayer)
+        public ViewModelClass(ModelAbstractApi modelLayer)
         {
             StartCommand = new RelayCommand(StartBalls, CanDoDisableButton);
             StopCommand = new RelayCommand(StopBalls, CanDoEnableButton);

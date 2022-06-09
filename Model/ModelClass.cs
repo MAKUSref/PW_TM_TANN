@@ -3,12 +3,12 @@ using Logic;
 
 namespace Presentation.Model
 {
-    internal class MainModel : ModelAbstractApi
+    internal class ModelClass : ModelAbstractApi
     {
         private ObservableCollection<ICircle> Circles = new();
         private LogicAbstractApi _logicLayer;
 
-        public MainModel(LogicAbstractApi logicLayer)
+        public ModelClass(LogicAbstractApi logicLayer)
         {
             _logicLayer = logicLayer;
         }

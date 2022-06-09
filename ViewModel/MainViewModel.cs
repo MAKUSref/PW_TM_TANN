@@ -21,8 +21,8 @@ namespace Presentation.ViewModel
             _modelLayer = modelLayer;
             AppDomain.CurrentDomain.ProcessExit += OnProcessExit!;
         }
-        
-        private void OnProcessExit (object sender, EventArgs e)
+
+        private void OnProcessExit(object sender, EventArgs e)
         {
             _modelLayer.ClearCircles();
         }

@@ -47,7 +47,7 @@
             VerticalAlignment="Top"
             Width="98" />
         <Button
-            Background="#FF0000"
+            Background="Red"
             Command="{Binding StopCommand}"
             Content="Stop"
             FontSize="20"
@@ -63,7 +63,7 @@
             Width="580">
             <ItemsControl.ItemsPanel>
                 <ItemsPanelTemplate>
-                    <Canvas Background="Black" />
+                    <Canvas Background="Yellow" />
                 </ItemsPanelTemplate>
             </ItemsControl.ItemsPanel>
             <ItemsControl.ItemContainerStyle>
@@ -74,7 +74,7 @@
             </ItemsControl.ItemContainerStyle>
             <ItemsControl.ItemTemplate>
                 <DataTemplate>
-                    <Path Fill="Green">
+                    <Path Fill="Red">
                         <Path.Data>
                             <EllipseGeometry
                                 RadiusX="{Binding Radius}"

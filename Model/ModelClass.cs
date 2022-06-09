@@ -5,7 +5,7 @@ namespace Model
 {
     public class ModelClass
     {
-        private readonly ILogic _ballsManager;
+        private readonly ILogic _ballsMgr;
         private readonly int _width;
         private readonly int _height;
 
@@ -13,22 +13,22 @@ namespace Model
         {
             _width = width;
             _height = height;
-            _ballsManager = ILogic.Create(width, height);
+            _ballsMgr = ILogic.Create(width, height);
         }
 
         public List<IBall2> GetBalls()
         {
-            return _ballsManager.GetAllBalls();
+            return _ballsMgr.GetAllBalls();
         }
 
         public void CreateBalls(int amount)
         {
-            _ballsManager.SummonBalls(amount);
+            _ballsMgr.SummonBalls(amount);
         }
 
         public void ClearBalls()
         {
-            _ballsManager.ClearBalls();
+            _ballsMgr.ClearBalls();
         }
 
 

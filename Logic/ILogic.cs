@@ -8,9 +8,6 @@ namespace Logic
 
         public bool isMoving { get; set; }
 
-
-        
-
         public List<Thread> threads;
 
         public static ILogic Create(int width, int height)

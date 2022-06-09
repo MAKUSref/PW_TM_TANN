@@ -44,7 +44,7 @@ internal class Logger
     
     private static readonly TimeSpan TimeSpan = new(0, 0, 1, 0);
 
-    private const string FileLocationPattern = "../../../../logs_{0}.json";
+    private const string FileLocationPattern = "../../../../logs/logs_{0}.json";
 
     private readonly string _fileName;
     private object _fileLock = new();

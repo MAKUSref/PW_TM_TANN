@@ -1,13 +1,18 @@
-﻿<?xml version="1.0" encoding="windows-1250"?>
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
-	<ItemGroup>
-		<ProjectReference Include="..\Logic\Logic.csproj" />
-		<ProjectReference Include="..\Model\Model.csproj" />
-	</ItemGroup>
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Presentation.ViewModel</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Model\Model.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Annotations.cs" />
+    </ItemGroup>
+
 </Project>

@@ -1,0 +1,503 @@
+{
+	"logs": [
+		{
+			"time_stamp": "09.06.2022 20:56:29:417",
+			"event": "Launched"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:347",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"XPosition": "486",
+			"YPosition": "565",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "2",
+			"YSpeed": "-2"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:351",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"XPosition": "419",
+			"YPosition": "487",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "2",
+			"YSpeed": "-5"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:354",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"XPosition": "271",
+			"YPosition": "415",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "-5",
+			"YSpeed": "3"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:355",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 486,
+			"new_value": 488
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:355",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 565,
+			"new_value": 563
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:359",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 419,
+			"new_value": 421
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:361",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 487,
+			"new_value": 482
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:361",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"XPosition": "232",
+			"YPosition": "368",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "-4",
+			"YSpeed": "-5"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:372",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 488,
+			"new_value": 490
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:380",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 563,
+			"new_value": 561
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:380",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 271,
+			"new_value": 266
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:380",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 421,
+			"new_value": 423
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:383",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 415,
+			"new_value": 418
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:383",
+			"object_type": "BallData",
+			"object_id": 12572829,
+			"XPosition": "54",
+			"YPosition": "181",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "3",
+			"YSpeed": "-4"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:383",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 482,
+			"new_value": 477
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:396",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 490,
+			"new_value": 492
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:394",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 232,
+			"new_value": 228
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:397",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 368,
+			"new_value": 363
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:400",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 561,
+			"new_value": 559
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:410",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 423,
+			"new_value": 425
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:417",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 477,
+			"new_value": 472
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:419",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 492,
+			"new_value": 494
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:422",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 425,
+			"new_value": 427
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:428",
+			"object_type": "BallData",
+			"object_id": 12572829,
+			"changed_property": "XPosition",
+			"old_value": 54,
+			"new_value": 57
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:428",
+			"object_type": "BallData",
+			"object_id": 46046605,
+			"XPosition": "295",
+			"YPosition": "379",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "1",
+			"YSpeed": "-1"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:431",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 559,
+			"new_value": 557
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:435",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 472,
+			"new_value": 467
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:437",
+			"object_type": "BallData",
+			"object_id": 12572829,
+			"changed_property": "YPosition",
+			"old_value": 181,
+			"new_value": 177
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:447",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 266,
+			"new_value": 261
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:448",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"XPosition": "525",
+			"YPosition": "459",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "3",
+			"YSpeed": "4"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:451",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 418,
+			"new_value": 421
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:453",
+			"object_type": "BallData",
+			"object_id": 46046605,
+			"changed_property": "XPosition",
+			"old_value": 295,
+			"new_value": 296
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:458",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 427,
+			"new_value": 429
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:460",
+			"object_type": "BallData",
+			"object_id": 46046605,
+			"changed_property": "YPosition",
+			"old_value": 379,
+			"new_value": 378
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:467",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 467,
+			"new_value": 462
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:472",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 261,
+			"new_value": 256
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:478",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 421,
+			"new_value": 424
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:478",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"changed_property": "XPosition",
+			"old_value": 525,
+			"new_value": 528
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:480",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"changed_property": "YPosition",
+			"old_value": 459,
+			"new_value": 463
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:486",
+			"object_type": "BallData",
+			"object_id": 38787544,
+			"XPosition": "498",
+			"YPosition": "450",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "3",
+			"YSpeed": "-5"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:488",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 494,
+			"new_value": 496
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:494",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 557,
+			"new_value": 555
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:496",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"changed_property": "XPosition",
+			"old_value": 528,
+			"new_value": 531
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:503",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"XPosition": "126",
+			"YPosition": "420",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "-1",
+			"YSpeed": "-1"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:507",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"changed_property": "YPosition",
+			"old_value": 463,
+			"new_value": 467
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:503",
+			"object_type": "BallData",
+			"object_id": 38787544,
+			"changed_property": "XPosition",
+			"old_value": 498,
+			"new_value": 501
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:507",
+			"object_type": "BallData",
+			"object_id": 38787544,
+			"changed_property": "YPosition",
+			"old_value": 450,
+			"new_value": 445
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:510",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 429,
+			"new_value": 431
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:520",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 462,
+			"new_value": 457
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:520",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"XPosition": "312",
+			"YPosition": "313",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "-5",
+			"YSpeed": "-1"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:528",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"changed_property": "XPosition",
+			"old_value": 531,
+			"new_value": 534
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:526",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "XPosition",
+			"old_value": 126,
+			"new_value": 125
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:555",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "YPosition",
+			"old_value": 420,
+			"new_value": 419
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:555",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"changed_property": "YPosition",
+			"old_value": 467,
+			"new_value": 471
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:31:564",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 431,
+			"new_value": 433
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:38:592",
+			"object_type": "BallData",
+			"object_id": 23288300,
+			"XPosition": "413",
+			"YPosition": "221",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "-3",
+			"YSpeed": "-1"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:38:597",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 457,
+			"new_value": 452
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:38:599",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 312,
+			"new_value": 307
+		},

@@ -4,7 +4,7 @@ using Presentation.ViewModel;
 namespace ViewModelTests
 {
     [TestClass]
-    public class MainViewModelTest
+    public class ViewModelClassTest
     {
         private TestModel _testModel = new(10, 10);
         private ViewModelClass? _mainViewModel;

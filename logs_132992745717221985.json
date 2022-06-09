@@ -1,0 +1,7098 @@
+{
+	"logs": [
+		{
+			"time_stamp": "09.06.2022 20:56:11:728",
+			"event": "Launched"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:353",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"XPosition": "59",
+			"YPosition": "169",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "-4",
+			"YSpeed": "-4"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:357",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"XPosition": "186",
+			"YPosition": "123",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "3",
+			"YSpeed": "-3"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:359",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"XPosition": "376",
+			"YPosition": "144",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "4",
+			"YSpeed": "-4"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:365",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"XPosition": "426",
+			"YPosition": "521",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "2",
+			"YSpeed": "3"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:364",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 59,
+			"new_value": 55
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:364",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 169,
+			"new_value": 165
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:369",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 123,
+			"new_value": 120
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:365",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 186,
+			"new_value": 189
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:378",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 376,
+			"new_value": 380
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:380",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 144,
+			"new_value": 140
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:385",
+			"object_type": "BallData",
+			"object_id": 12572829,
+			"XPosition": "46",
+			"YPosition": "286",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "2",
+			"YSpeed": "-5"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:393",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 55,
+			"new_value": 51
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:393",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 426,
+			"new_value": 428
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:395",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 189,
+			"new_value": 192
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:393",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 380,
+			"new_value": 384
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:398",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 140,
+			"new_value": 136
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:400",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 521,
+			"new_value": 524
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:411",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 165,
+			"new_value": 161
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:414",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 120,
+			"new_value": 117
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:424",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 51,
+			"new_value": 47
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:427",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 192,
+			"new_value": 195
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:429",
+			"object_type": "BallData",
+			"object_id": 12572829,
+			"changed_property": "XPosition",
+			"old_value": 46,
+			"new_value": 48
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:424",
+			"object_type": "BallData",
+			"object_id": 46046605,
+			"XPosition": "286",
+			"YPosition": "180",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "4",
+			"YSpeed": "2"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:436",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 161,
+			"new_value": 157
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:436",
+			"object_type": "BallData",
+			"object_id": 12572829,
+			"changed_property": "YPosition",
+			"old_value": 286,
+			"new_value": 281
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:436",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 117,
+			"new_value": 114
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:440",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 384,
+			"new_value": 388
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:451",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"XPosition": "557",
+			"YPosition": "478",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "2",
+			"YSpeed": "-4"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:451",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 136,
+			"new_value": 132
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:456",
+			"object_type": "BallData",
+			"object_id": 46046605,
+			"changed_property": "XPosition",
+			"old_value": 286,
+			"new_value": 290
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:456",
+			"object_type": "BallData",
+			"object_id": 12572829,
+			"changed_property": "XPosition",
+			"old_value": 48,
+			"new_value": 50
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:458",
+			"object_type": "BallData",
+			"object_id": 46046605,
+			"changed_property": "YPosition",
+			"old_value": 180,
+			"new_value": 182
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:466",
+			"object_type": "BallData",
+			"object_id": 12572829,
+			"changed_property": "YPosition",
+			"old_value": 281,
+			"new_value": 276
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:468",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 388,
+			"new_value": 392
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:474",
+			"object_type": "BallData",
+			"object_id": 38787544,
+			"XPosition": "443",
+			"YPosition": "436",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "-5",
+			"YSpeed": "1"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:474",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 132,
+			"new_value": 128
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:478",
+			"object_type": "BallData",
+			"object_id": 46046605,
+			"changed_property": "XPosition",
+			"old_value": 290,
+			"new_value": 294
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:480",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"changed_property": "XPosition",
+			"old_value": 557,
+			"new_value": 559
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:485",
+			"object_type": "BallData",
+			"object_id": 46046605,
+			"changed_property": "YPosition",
+			"old_value": 182,
+			"new_value": 184
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:485",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"XPosition": "486",
+			"YPosition": "291",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "4",
+			"YSpeed": "2"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:491",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"changed_property": "YPosition",
+			"old_value": 478,
+			"new_value": 474
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:491",
+			"object_type": "BallData",
+			"object_id": 38787544,
+			"changed_property": "XPosition",
+			"old_value": 443,
+			"new_value": 438
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:493",
+			"object_type": "BallData",
+			"object_id": 38787544,
+			"changed_property": "YPosition",
+			"old_value": 436,
+			"new_value": 437
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:495",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 392,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:497",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 128,
+			"new_value": 124
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:501",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"changed_property": "XPosition",
+			"old_value": 559,
+			"new_value": 561
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:508",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"changed_property": "YPosition",
+			"old_value": 474,
+			"new_value": 470
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:516",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"XPosition": "396",
+			"YPosition": "426",
+			"Weight": "100",
+			"Radius": "11",
+			"XSpeed": "0",
+			"YSpeed": "-3"
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:520",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 400
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:522",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "XPosition",
+			"old_value": 486,
+			"new_value": 490
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:524",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "YPosition",
+			"old_value": 291,
+			"new_value": 293
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:526",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 124,
+			"new_value": 120
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:539",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"changed_property": "XPosition",
+			"old_value": 561,
+			"new_value": 563
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:542",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:544",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"changed_property": "YPosition",
+			"old_value": 470,
+			"new_value": 466
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:551",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 426,
+			"new_value": 423
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:554",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:561",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 423,
+			"new_value": 420
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:561",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 47,
+			"new_value": 43
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:561",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 157,
+			"new_value": 153
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:563",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 195,
+			"new_value": 198
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:571",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 114,
+			"new_value": 111
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:576",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:579",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 420,
+			"new_value": 417
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:584",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 43,
+			"new_value": 39
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:586",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 153,
+			"new_value": 149
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:592",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:595",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 417,
+			"new_value": 414
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:600",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 198,
+			"new_value": 201
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:603",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:606",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 111,
+			"new_value": 108
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:612",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 414,
+			"new_value": 411
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:619",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 39,
+			"new_value": 35
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:621",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 149,
+			"new_value": 145
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:629",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:631",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 411,
+			"new_value": 408
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:637",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 201,
+			"new_value": 204
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:640",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 108,
+			"new_value": 105
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:646",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:650",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 408,
+			"new_value": 405
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:652",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 35,
+			"new_value": 31
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:658",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 145,
+			"new_value": 141
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:661",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:665",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 405,
+			"new_value": 402
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:669",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 31,
+			"new_value": 27
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:676",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 141,
+			"new_value": 137
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:678",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:684",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 402,
+			"new_value": 399
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:688",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 204,
+			"new_value": 207
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:690",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 105,
+			"new_value": 102
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:696",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:699",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 399,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:704",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 207,
+			"new_value": 210
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:707",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 102,
+			"new_value": 99
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:711",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:717",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 396,
+			"new_value": 393
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:721",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 27,
+			"new_value": 23
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:723",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 137,
+			"new_value": 133
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:728",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:730",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 393,
+			"new_value": 390
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:734",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 210,
+			"new_value": 213
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:737",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 99,
+			"new_value": 96
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:742",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:745",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 390,
+			"new_value": 387
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:752",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 23,
+			"new_value": 19
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:754",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 133,
+			"new_value": 129
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:760",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:763",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 387,
+			"new_value": 384
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:768",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 213,
+			"new_value": 216
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:773",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 96,
+			"new_value": 93
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:775",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:781",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 384,
+			"new_value": 381
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:783",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 19,
+			"new_value": 15
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:788",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 129,
+			"new_value": 125
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:793",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:795",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 381,
+			"new_value": 378
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:800",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 15,
+			"new_value": 11
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:803",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 125,
+			"new_value": 121
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:809",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:811",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 378,
+			"new_value": 375
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:817",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XSpeed",
+			"old_value": -4,
+			"new_value": 4
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:822",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:822",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 11,
+			"new_value": 15
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:822",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 216,
+			"new_value": 219
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:824",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 93,
+			"new_value": 90
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:828",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 121,
+			"new_value": 117
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:838",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 375,
+			"new_value": 372
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:842",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 400,
+			"new_value": 404
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:847",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 120,
+			"new_value": 116
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:853",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:856",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 372,
+			"new_value": 369
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:862",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 15,
+			"new_value": 19
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:865",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 117,
+			"new_value": 113
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:870",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:875",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 369,
+			"new_value": 366
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:878",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 219,
+			"new_value": 222
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:885",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 90,
+			"new_value": 87
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:888",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:893",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 366,
+			"new_value": 363
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:899",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 222,
+			"new_value": 225
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:902",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 87,
+			"new_value": 84
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:908",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:912",
+			"object_type": "BallData",
+			"object_id": 54783372,
+			"changed_property": "YPosition",
+			"old_value": 363,
+			"new_value": 360
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:916",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 19,
+			"new_value": 23
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:922",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 113,
+			"new_value": 109
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:926",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 225,
+			"new_value": 228
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:929",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 84,
+			"new_value": 81
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:935",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 404,
+			"new_value": 408
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:939",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 116,
+			"new_value": 112
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:943",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 23,
+			"new_value": 27
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:950",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 109,
+			"new_value": 105
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:953",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 228,
+			"new_value": 231
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:957",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 81,
+			"new_value": 78
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:964",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 408,
+			"new_value": 412
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:967",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 112,
+			"new_value": 108
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:973",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 27,
+			"new_value": 31
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:978",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 105,
+			"new_value": 101
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:981",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 231,
+			"new_value": 234
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:987",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 78,
+			"new_value": 75
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:990",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 412,
+			"new_value": 416
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:14:994",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 108,
+			"new_value": 104
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:0",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 31,
+			"new_value": 35
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:3",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 101,
+			"new_value": 97
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:9",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 234,
+			"new_value": 237
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:15",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 75,
+			"new_value": 72
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:17",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 416,
+			"new_value": 420
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:25",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 104,
+			"new_value": 100
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:27",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 35,
+			"new_value": 39
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:34",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 97,
+			"new_value": 93
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:36",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 237,
+			"new_value": 240
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:40",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 72,
+			"new_value": 69
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:45",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 420,
+			"new_value": 424
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:52",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 100,
+			"new_value": 96
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:55",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 39,
+			"new_value": 43
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:60",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 240,
+			"new_value": 243
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:63",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 93,
+			"new_value": 89
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:70",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 69,
+			"new_value": 66
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:78",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 424,
+			"new_value": 428
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:78",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 96,
+			"new_value": 92
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:83",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 43,
+			"new_value": 47
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:85",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 89,
+			"new_value": 85
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:91",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 243,
+			"new_value": 246
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:95",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 66,
+			"new_value": 63
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:101",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 428,
+			"new_value": 432
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:104",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 92,
+			"new_value": 88
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:108",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 47,
+			"new_value": 51
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:115",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 85,
+			"new_value": 81
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:117",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 246,
+			"new_value": 249
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:124",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 63,
+			"new_value": 60
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:127",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 432,
+			"new_value": 436
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:132",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 88,
+			"new_value": 84
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:137",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 51,
+			"new_value": 55
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:139",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 81,
+			"new_value": 77
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:145",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 249,
+			"new_value": 252
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:148",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 60,
+			"new_value": 57
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:154",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 436,
+			"new_value": 440
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:158",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 84,
+			"new_value": 80
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:163",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 55,
+			"new_value": 59
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:169",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 77,
+			"new_value": 73
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:172",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 252,
+			"new_value": 255
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:177",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 57,
+			"new_value": 54
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:182",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 440,
+			"new_value": 444
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:189",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 80,
+			"new_value": 76
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:192",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 59,
+			"new_value": 63
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:199",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 73,
+			"new_value": 69
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:205",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 255,
+			"new_value": 258
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:209",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 54,
+			"new_value": 51
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:215",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 444,
+			"new_value": 448
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:219",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 76,
+			"new_value": 72
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:225",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 63,
+			"new_value": 67
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:229",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 69,
+			"new_value": 65
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:236",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 258,
+			"new_value": 261
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:239",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 51,
+			"new_value": 48
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:246",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 448,
+			"new_value": 452
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:249",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 72,
+			"new_value": 68
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:256",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 67,
+			"new_value": 71
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:260",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 65,
+			"new_value": 61
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:268",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 261,
+			"new_value": 264
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:274",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 48,
+			"new_value": 45
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:279",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 452,
+			"new_value": 456
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:308",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 68,
+			"new_value": 64
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:310",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 71,
+			"new_value": 75
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:318",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 61,
+			"new_value": 57
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:320",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 264,
+			"new_value": 267
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:328",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 45,
+			"new_value": 42
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:333",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 456,
+			"new_value": 460
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:336",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 64,
+			"new_value": 60
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:342",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 75,
+			"new_value": 79
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:346",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 57,
+			"new_value": 53
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:352",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 267,
+			"new_value": 270
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:356",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 42,
+			"new_value": 39
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:361",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 460,
+			"new_value": 464
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:367",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 60,
+			"new_value": 56
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:374",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 270,
+			"new_value": 273
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:376",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 39,
+			"new_value": 36
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:384",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 464,
+			"new_value": 468
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:387",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 56,
+			"new_value": 52
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:394",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 79,
+			"new_value": 83
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:394",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 53,
+			"new_value": 49
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:398",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 273,
+			"new_value": 276
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:405",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 36,
+			"new_value": 33
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:410",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 468,
+			"new_value": 472
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:413",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 52,
+			"new_value": 48
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:416",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 83,
+			"new_value": 87
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:419",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 49,
+			"new_value": 45
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:423",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 276,
+			"new_value": 279
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:437",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 33,
+			"new_value": 30
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:446",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 472,
+			"new_value": 476
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:450",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 48,
+			"new_value": 44
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:455",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 87,
+			"new_value": 91
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:459",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 45,
+			"new_value": 41
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:463",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 279,
+			"new_value": 282
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:470",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 30,
+			"new_value": 27
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:473",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 476,
+			"new_value": 480
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:475",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 44,
+			"new_value": 40
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:481",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 91,
+			"new_value": 95
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:484",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 41,
+			"new_value": 37
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:489",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 282,
+			"new_value": 285
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:494",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 27,
+			"new_value": 24
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:498",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 480,
+			"new_value": 484
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:505",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 40,
+			"new_value": 36
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:510",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 95,
+			"new_value": 99
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:515",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 37,
+			"new_value": 33
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:521",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 285,
+			"new_value": 288
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:526",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 24,
+			"new_value": 21
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:529",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 484,
+			"new_value": 488
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:535",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 36,
+			"new_value": 32
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:541",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 99,
+			"new_value": 103
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:543",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 33,
+			"new_value": 29
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:550",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 288,
+			"new_value": 291
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:553",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 21,
+			"new_value": 18
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:559",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 488,
+			"new_value": 492
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:562",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 32,
+			"new_value": 28
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:567",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 103,
+			"new_value": 107
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:570",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 29,
+			"new_value": 25
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:577",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 291,
+			"new_value": 294
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:580",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 18,
+			"new_value": 15
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:585",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 492,
+			"new_value": 496
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:592",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 28,
+			"new_value": 24
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:595",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 107,
+			"new_value": 111
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:601",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 25,
+			"new_value": 21
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:606",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 294,
+			"new_value": 297
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:609",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 15,
+			"new_value": 12
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:615",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 496,
+			"new_value": 500
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:617",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 24,
+			"new_value": 20
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:624",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 111,
+			"new_value": 115
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:627",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 21,
+			"new_value": 17
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:632",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 115,
+			"new_value": 119
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:636",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YSpeed",
+			"old_value": -3,
+			"new_value": 3
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:641",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 500,
+			"new_value": 504
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:647",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 17,
+			"new_value": 13
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:647",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 297,
+			"new_value": 300
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:649",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 20,
+			"new_value": 16
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:657",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 12,
+			"new_value": 15
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:660",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 428,
+			"new_value": 430
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:667",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 524,
+			"new_value": 527
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:673",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 300,
+			"new_value": 303
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:673",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YSpeed",
+			"old_value": -4,
+			"new_value": 4
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:678",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 119,
+			"new_value": 123
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:678",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 15,
+			"new_value": 18
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:687",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 13,
+			"new_value": 17
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:689",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 504,
+			"new_value": 508
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:696",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 16,
+			"new_value": 12
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:698",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 430,
+			"new_value": 432
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:704",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 527,
+			"new_value": 530
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:708",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 123,
+			"new_value": 127
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:714",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 17,
+			"new_value": 21
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:717",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 303,
+			"new_value": 306
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:721",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 18,
+			"new_value": 21
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:725",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 127,
+			"new_value": 131
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:733",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 21,
+			"new_value": 25
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:734",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YSpeed",
+			"old_value": -4,
+			"new_value": 4
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:737",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 432,
+			"new_value": 434
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:744",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 508,
+			"new_value": 512
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:746",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 530,
+			"new_value": 533
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:752",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 12,
+			"new_value": 16
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:754",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 306,
+			"new_value": 309
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:759",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 21,
+			"new_value": 24
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:766",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 131,
+			"new_value": 135
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:768",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 25,
+			"new_value": 29
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:774",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 512,
+			"new_value": 516
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:775",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 16,
+			"new_value": 20
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:780",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 24,
+			"new_value": 27
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:782",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 309,
+			"new_value": 312
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:789",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 434,
+			"new_value": 436
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:794",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 533,
+			"new_value": 536
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:797",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 135,
+			"new_value": 139
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:802",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 29,
+			"new_value": 33
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:805",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 312,
+			"new_value": 315
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:811",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 27,
+			"new_value": 30
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:815",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 516,
+			"new_value": 520
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:818",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 20,
+			"new_value": 24
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:824",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 139,
+			"new_value": 143
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:827",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 33,
+			"new_value": 37
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:833",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 315,
+			"new_value": 318
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:836",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 30,
+			"new_value": 33
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:841",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 520,
+			"new_value": 524
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:847",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 24,
+			"new_value": 28
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:850",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 143,
+			"new_value": 147
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:857",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 37,
+			"new_value": 41
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:860",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 318,
+			"new_value": 321
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:866",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 33,
+			"new_value": 36
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:871",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 524,
+			"new_value": 528
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:874",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 28,
+			"new_value": 32
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:880",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 147,
+			"new_value": 151
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:884",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 41,
+			"new_value": 45
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:890",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 321,
+			"new_value": 324
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:893",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 36,
+			"new_value": 39
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:898",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 528,
+			"new_value": 532
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:903",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 32,
+			"new_value": 36
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:907",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 151,
+			"new_value": 155
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:912",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 45,
+			"new_value": 49
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:918",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 324,
+			"new_value": 327
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:920",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 39,
+			"new_value": 42
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:927",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 532,
+			"new_value": 536
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:929",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 36,
+			"new_value": 40
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:936",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 155,
+			"new_value": 159
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:939",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 49,
+			"new_value": 53
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:944",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 327,
+			"new_value": 330
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:951",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 42,
+			"new_value": 45
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:954",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 536,
+			"new_value": 540
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:960",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 40,
+			"new_value": 44
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:963",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 159,
+			"new_value": 163
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:970",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 53,
+			"new_value": 57
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:973",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 330,
+			"new_value": 333
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:979",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 45,
+			"new_value": 48
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:986",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 540,
+			"new_value": 544
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:989",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 44,
+			"new_value": 48
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:15:997",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 163,
+			"new_value": 167
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:0",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 57,
+			"new_value": 61
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:7",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 333,
+			"new_value": 336
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:10",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 48,
+			"new_value": 51
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:17",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 48,
+			"new_value": 52
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:17",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 544,
+			"new_value": 548
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:20",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 167,
+			"new_value": 171
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:24",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 61,
+			"new_value": 65
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:32",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 336,
+			"new_value": 339
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:36",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 51,
+			"new_value": 54
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:42",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 548,
+			"new_value": 552
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:45",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 52,
+			"new_value": 56
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:51",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 171,
+			"new_value": 175
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:54",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 65,
+			"new_value": 69
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:59",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 339,
+			"new_value": 342
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:63",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 54,
+			"new_value": 57
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:69",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 552,
+			"new_value": 556
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:72",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 56,
+			"new_value": 60
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:77",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 175,
+			"new_value": 179
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:79",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 69,
+			"new_value": 73
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:84",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 342,
+			"new_value": 345
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:89",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 57,
+			"new_value": 60
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:96",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 556,
+			"new_value": 560
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:99",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 60,
+			"new_value": 64
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:106",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 179,
+			"new_value": 183
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:110",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 73,
+			"new_value": 77
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:117",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 345,
+			"new_value": 348
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:120",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 60,
+			"new_value": 63
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:126",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 560,
+			"new_value": 564
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:130",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 64,
+			"new_value": 68
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:136",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 183,
+			"new_value": 187
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:139",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 77,
+			"new_value": 81
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:145",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 348,
+			"new_value": 351
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:149",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 63,
+			"new_value": 66
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:155",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 564,
+			"new_value": 568
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:161",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 68,
+			"new_value": 72
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:163",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 187,
+			"new_value": 191
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:170",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 81,
+			"new_value": 85
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:174",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 351,
+			"new_value": 354
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:180",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 66,
+			"new_value": 69
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:184",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XSpeed",
+			"old_value": 4,
+			"new_value": -4
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:192",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 568,
+			"new_value": 564
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:194",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 69,
+			"new_value": 72
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:197",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 191,
+			"new_value": 195
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:204",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 354,
+			"new_value": 357
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:204",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 72,
+			"new_value": 76
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:204",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 85,
+			"new_value": 89
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:213",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 436,
+			"new_value": 438
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:216",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 536,
+			"new_value": 539
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:223",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 195,
+			"new_value": 199
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:226",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 89,
+			"new_value": 93
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:234",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 357,
+			"new_value": 360
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:241",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 72,
+			"new_value": 75
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:244",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 564,
+			"new_value": 560
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:249",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 76,
+			"new_value": 80
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:252",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 199,
+			"new_value": 203
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:258",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 93,
+			"new_value": 97
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:261",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 360,
+			"new_value": 363
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:267",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 75,
+			"new_value": 78
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:270",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 560,
+			"new_value": 556
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:276",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 80,
+			"new_value": 84
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:279",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 203,
+			"new_value": 207
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:285",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 97,
+			"new_value": 101
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:290",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 363,
+			"new_value": 366
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:292",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 78,
+			"new_value": 81
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:299",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 556,
+			"new_value": 552
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:302",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 84,
+			"new_value": 88
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:308",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 207,
+			"new_value": 211
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:312",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 101,
+			"new_value": 105
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:317",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 366,
+			"new_value": 369
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:323",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 81,
+			"new_value": 84
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:325",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 552,
+			"new_value": 548
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:332",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 211,
+			"new_value": 215
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:334",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 88,
+			"new_value": 92
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:337",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 105,
+			"new_value": 109
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:342",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 369,
+			"new_value": 372
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:347",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 84,
+			"new_value": 87
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:351",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 548,
+			"new_value": 544
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:356",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 92,
+			"new_value": 96
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:362",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 215,
+			"new_value": 219
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:365",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 109,
+			"new_value": 113
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:371",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 372,
+			"new_value": 375
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:374",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 87,
+			"new_value": 90
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:379",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 544,
+			"new_value": 540
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:385",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 96,
+			"new_value": 100
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:388",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 219,
+			"new_value": 223
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:396",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 113,
+			"new_value": 117
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:398",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 375,
+			"new_value": 378
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:405",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 90,
+			"new_value": 93
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:411",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 540,
+			"new_value": 536
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:413",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 100,
+			"new_value": 104
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:420",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 223,
+			"new_value": 227
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:424",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 117,
+			"new_value": 121
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:430",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 378,
+			"new_value": 381
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:438",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 93,
+			"new_value": 96
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:442",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 536,
+			"new_value": 532
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:449",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 104,
+			"new_value": 108
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:451",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 227,
+			"new_value": 231
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:458",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 121,
+			"new_value": 125
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:460",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 381,
+			"new_value": 384
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:465",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 96,
+			"new_value": 99
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:469",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 532,
+			"new_value": 528
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:474",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 108,
+			"new_value": 112
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:480",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 231,
+			"new_value": 235
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:483",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 125,
+			"new_value": 129
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:490",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 384,
+			"new_value": 387
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:492",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 99,
+			"new_value": 102
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:499",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 112,
+			"new_value": 116
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:499",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 528,
+			"new_value": 524
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:507",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 129,
+			"new_value": 133
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:509",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 235,
+			"new_value": 239
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:511",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 387,
+			"new_value": 390
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:517",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 102,
+			"new_value": 105
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:519",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 524,
+			"new_value": 520
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:525",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 116,
+			"new_value": 120
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:528",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 239,
+			"new_value": 243
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:534",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 133,
+			"new_value": 137
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:539",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 520,
+			"new_value": 516
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:541",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 120,
+			"new_value": 124
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:547",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 390,
+			"new_value": 393
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:549",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 105,
+			"new_value": 108
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:556",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 243,
+			"new_value": 247
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:560",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 137,
+			"new_value": 141
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:562",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 516,
+			"new_value": 512
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:568",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 124,
+			"new_value": 128
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:571",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 393,
+			"new_value": 396
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:577",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 108,
+			"new_value": 111
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:579",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 247,
+			"new_value": 251
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:585",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 141,
+			"new_value": 145
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:588",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 512,
+			"new_value": 508
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:594",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 128,
+			"new_value": 132
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:599",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 396,
+			"new_value": 399
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:601",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 111,
+			"new_value": 114
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:607",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 251,
+			"new_value": 255
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:610",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 145,
+			"new_value": 149
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:615",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 508,
+			"new_value": 504
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:618",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 132,
+			"new_value": 136
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:622",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 399,
+			"new_value": 402
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:629",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 114,
+			"new_value": 117
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:631",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 255,
+			"new_value": 259
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:633",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 149,
+			"new_value": 153
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:639",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 504,
+			"new_value": 500
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:645",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 136,
+			"new_value": 140
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:650",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 402,
+			"new_value": 405
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:656",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 117,
+			"new_value": 120
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:662",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 259,
+			"new_value": 263
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:665",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 153,
+			"new_value": 157
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:671",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 500,
+			"new_value": 496
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:674",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 140,
+			"new_value": 144
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:678",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 405,
+			"new_value": 408
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:684",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 120,
+			"new_value": 123
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:687",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 263,
+			"new_value": 267
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:692",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 157,
+			"new_value": 161
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:697",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 496,
+			"new_value": 492
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:699",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 144,
+			"new_value": 148
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:705",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 408,
+			"new_value": 411
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:709",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 123,
+			"new_value": 126
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:711",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 267,
+			"new_value": 271
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:717",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 161,
+			"new_value": 165
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:719",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 492,
+			"new_value": 488
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:724",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 148,
+			"new_value": 152
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:729",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 411,
+			"new_value": 414
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:732",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 126,
+			"new_value": 129
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:737",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XSpeed",
+			"old_value": 4,
+			"new_value": 4
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:742",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YSpeed",
+			"old_value": 4,
+			"new_value": 2
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:745",
+			"object_type": "BallData",
+			"object_id": 46046605,
+			"changed_property": "XSpeed",
+			"old_value": 4,
+			"new_value": 4
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:749",
+			"object_type": "BallData",
+			"object_id": 46046605,
+			"changed_property": "YSpeed",
+			"old_value": 2,
+			"new_value": 4
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:753",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 271,
+			"new_value": 275
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:755",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 165,
+			"new_value": 167
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:761",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 414,
+			"new_value": 417
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:763",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 129,
+			"new_value": 132
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:768",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 488,
+			"new_value": 484
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:771",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 152,
+			"new_value": 156
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:776",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 275,
+			"new_value": 279
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:781",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 167,
+			"new_value": 169
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:783",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 417,
+			"new_value": 420
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:790",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 132,
+			"new_value": 135
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:792",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 484,
+			"new_value": 480
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:797",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 156,
+			"new_value": 160
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:803",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 279,
+			"new_value": 283
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:805",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 169,
+			"new_value": 171
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:811",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 420,
+			"new_value": 423
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:813",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 135,
+			"new_value": 138
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:819",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 480,
+			"new_value": 476
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:822",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 160,
+			"new_value": 164
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:827",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 171,
+			"new_value": 173
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:829",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 283,
+			"new_value": 287
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:831",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 423,
+			"new_value": 426
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:837",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 138,
+			"new_value": 141
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:839",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 476,
+			"new_value": 472
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:844",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 164,
+			"new_value": 168
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:847",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 426,
+			"new_value": 429
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:855",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 287,
+			"new_value": 291
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:855",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 141,
+			"new_value": 144
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:858",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 173,
+			"new_value": 175
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:863",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 438,
+			"new_value": 440
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:871",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 539,
+			"new_value": 542
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:875",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 429,
+			"new_value": 432
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:880",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 144,
+			"new_value": 147
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:887",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 291,
+			"new_value": 295
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:890",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 175,
+			"new_value": 177
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:896",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 472,
+			"new_value": 468
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:901",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 168,
+			"new_value": 172
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:904",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 432,
+			"new_value": 435
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:910",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 147,
+			"new_value": 150
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:913",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 295,
+			"new_value": 299
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:918",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 177,
+			"new_value": 179
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:923",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 468,
+			"new_value": 464
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:927",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 172,
+			"new_value": 176
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:933",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 435,
+			"new_value": 438
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:936",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 150,
+			"new_value": 153
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:942",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 299,
+			"new_value": 303
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:945",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 179,
+			"new_value": 181
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:951",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 464,
+			"new_value": 460
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:956",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 176,
+			"new_value": 180
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:958",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 438,
+			"new_value": 441
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:965",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 153,
+			"new_value": 156
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:968",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 303,
+			"new_value": 307
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:974",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 181,
+			"new_value": 183
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:978",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 460,
+			"new_value": 456
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:982",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 180,
+			"new_value": 184
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:985",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 441,
+			"new_value": 444
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:990",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 156,
+			"new_value": 159
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:16:995",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 307,
+			"new_value": 311
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:2",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 183,
+			"new_value": 185
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:5",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 444,
+			"new_value": 447
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:11",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 159,
+			"new_value": 162
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:16",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 456,
+			"new_value": 452
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:18",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 184,
+			"new_value": 188
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:25",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 311,
+			"new_value": 315
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:28",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 185,
+			"new_value": 187
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:35",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XSpeed",
+			"old_value": 3,
+			"new_value": -4
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:38",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YSpeed",
+			"old_value": 3,
+			"new_value": 4
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:45",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XSpeed",
+			"old_value": -4,
+			"new_value": 3
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:47",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YSpeed",
+			"old_value": 4,
+			"new_value": 3
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:53",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 447,
+			"new_value": 443
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:56",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 162,
+			"new_value": 166
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:61",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 315,
+			"new_value": 319
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:65",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 187,
+			"new_value": 189
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:70",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 452,
+			"new_value": 455
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:77",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 188,
+			"new_value": 191
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:80",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 319,
+			"new_value": 323
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:86",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 189,
+			"new_value": 191
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:89",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 443,
+			"new_value": 439
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:94",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 166,
+			"new_value": 170
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:100",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 455,
+			"new_value": 458
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:103",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 191,
+			"new_value": 194
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:109",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 440,
+			"new_value": 442
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:113",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 542,
+			"new_value": 545
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:119",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 323,
+			"new_value": 327
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:119",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 191,
+			"new_value": 193
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:124",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 458,
+			"new_value": 461
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:127",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 439,
+			"new_value": 435
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:135",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 194,
+			"new_value": 197
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:140",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 170,
+			"new_value": 174
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:148",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 442,
+			"new_value": 444
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:151",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 545,
+			"new_value": 548
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:158",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 461,
+			"new_value": 464
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:163",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 197,
+			"new_value": 200
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:166",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 327,
+			"new_value": 331
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:173",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 193,
+			"new_value": 195
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:175",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 435,
+			"new_value": 431
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:178",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 464,
+			"new_value": 467
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:185",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 200,
+			"new_value": 203
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:191",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 174,
+			"new_value": 178
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:197",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 331,
+			"new_value": 335
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:200",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 195,
+			"new_value": 197
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:210",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 467,
+			"new_value": 470
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:214",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 203,
+			"new_value": 206
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:219",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 431,
+			"new_value": 427
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:226",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 178,
+			"new_value": 182
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:228",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 335,
+			"new_value": 339
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:236",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 197,
+			"new_value": 199
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:239",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 470,
+			"new_value": 473
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:241",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 206,
+			"new_value": 209
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:247",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 427,
+			"new_value": 423
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:254",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 182,
+			"new_value": 186
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:259",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 339,
+			"new_value": 343
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:265",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 199,
+			"new_value": 201
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:268",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 473,
+			"new_value": 476
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:273",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 209,
+			"new_value": 212
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:281",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 423,
+			"new_value": 419
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:281",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 186,
+			"new_value": 190
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:284",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 343,
+			"new_value": 347
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:294",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 201,
+			"new_value": 203
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:297",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 444,
+			"new_value": 446
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:304",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 548,
+			"new_value": 551
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:308",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 419,
+			"new_value": 415
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:315",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 190,
+			"new_value": 194
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:318",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 347,
+			"new_value": 351
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:323",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 203,
+			"new_value": 205
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:327",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 415,
+			"new_value": 411
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:337",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 194,
+			"new_value": 198
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:337",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 476,
+			"new_value": 479
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:337",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 212,
+			"new_value": 215
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:340",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 446,
+			"new_value": 448
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:349",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 551,
+			"new_value": 554
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:353",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 351,
+			"new_value": 355
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:360",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 205,
+			"new_value": 207
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:366",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 479,
+			"new_value": 482
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:374",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 411,
+			"new_value": 407
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:376",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 215,
+			"new_value": 218
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:385",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 198,
+			"new_value": 202
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:390",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 448,
+			"new_value": 450
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:435",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 554,
+			"new_value": 557
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:435",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 355,
+			"new_value": 359
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:435",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 207,
+			"new_value": 209
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:448",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 202,
+			"new_value": 206
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:448",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 407,
+			"new_value": 403
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:452",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 359,
+			"new_value": 363
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:459",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 209,
+			"new_value": 211
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:461",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 403,
+			"new_value": 399
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:467",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 482,
+			"new_value": 485
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:472",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 206,
+			"new_value": 210
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:477",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 218,
+			"new_value": 221
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:477",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 363,
+			"new_value": 367
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:486",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 211,
+			"new_value": 213
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:491",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 450,
+			"new_value": 452
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:494",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 557,
+			"new_value": 560
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:503",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 399,
+			"new_value": 395
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:511",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 210,
+			"new_value": 214
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:514",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 367,
+			"new_value": 371
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:520",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 213,
+			"new_value": 215
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:529",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 395,
+			"new_value": 391
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:529",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 485,
+			"new_value": 488
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:533",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 214,
+			"new_value": 218
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:539",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 221,
+			"new_value": 224
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:545",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 452,
+			"new_value": 454
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:550",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 560,
+			"new_value": 563
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:554",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XSpeed",
+			"old_value": 4,
+			"new_value": -4
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:562",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YSpeed",
+			"old_value": 2,
+			"new_value": 4
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:562",
+			"object_type": "BallData",
+			"object_id": 12572829,
+			"changed_property": "XPosition",
+			"old_value": 50,
+			"new_value": 52
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:562",
+			"object_type": "BallData",
+			"object_id": 12572829,
+			"changed_property": "YPosition",
+			"old_value": 276,
+			"new_value": 271
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:565",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XSpeed",
+			"old_value": -4,
+			"new_value": 4
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:576",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YSpeed",
+			"old_value": 4,
+			"new_value": 2
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:579",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 371,
+			"new_value": 367
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:584",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 391,
+			"new_value": 395
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:591",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 218,
+			"new_value": 220
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:591",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 215,
+			"new_value": 219
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:600",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 488,
+			"new_value": 491
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:604",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 224,
+			"new_value": 227
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:612",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 454,
+			"new_value": 456
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:614",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 563,
+			"new_value": 566
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:621",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 395,
+			"new_value": 399
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:623",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 367,
+			"new_value": 363
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:628",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 220,
+			"new_value": 222
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:632",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 219,
+			"new_value": 223
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:638",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 491,
+			"new_value": 494
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:642",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 227,
+			"new_value": 230
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:648",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 399,
+			"new_value": 403
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:650",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 222,
+			"new_value": 224
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:653",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 363,
+			"new_value": 359
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:661",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 223,
+			"new_value": 227
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:664",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 456,
+			"new_value": 458
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:671",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 566,
+			"new_value": 569
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:674",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 403,
+			"new_value": 407
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:680",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 359,
+			"new_value": 355
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:682",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 224,
+			"new_value": 226
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:689",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 227,
+			"new_value": 231
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:691",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 494,
+			"new_value": 497
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:696",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 230,
+			"new_value": 233
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:699",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 407,
+			"new_value": 411
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:703",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 355,
+			"new_value": 351
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:705",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 226,
+			"new_value": 228
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:709",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 231,
+			"new_value": 235
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:715",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 497,
+			"new_value": 500
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:721",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 233,
+			"new_value": 236
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:723",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YSpeed",
+			"old_value": 3,
+			"new_value": -3
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:727",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 351,
+			"new_value": 347
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:733",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 458,
+			"new_value": 460
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:735",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 235,
+			"new_value": 239
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:742",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 569,
+			"new_value": 566
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:745",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 500,
+			"new_value": 503
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:750",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 236,
+			"new_value": 239
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:755",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 347,
+			"new_value": 343
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:757",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 411,
+			"new_value": 415
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:761",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 239,
+			"new_value": 243
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:764",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 228,
+			"new_value": 230
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:771",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 460,
+			"new_value": 462
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:775",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 566,
+			"new_value": 563
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:779",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 343,
+			"new_value": 339
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:786",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 415,
+			"new_value": 419
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:789",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 230,
+			"new_value": 232
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:790",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 243,
+			"new_value": 247
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:797",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 462,
+			"new_value": 464
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:803",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 563,
+			"new_value": 560
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:806",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 419,
+			"new_value": 423
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:811",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 232,
+			"new_value": 234
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:813",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 247,
+			"new_value": 251
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:819",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 464,
+			"new_value": 466
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:819",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 339,
+			"new_value": 335
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:826",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 560,
+			"new_value": 557
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:828",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 503,
+			"new_value": 506
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:834",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 239,
+			"new_value": 242
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:837",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 423,
+			"new_value": 427
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:839",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 335,
+			"new_value": 331
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:847",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 251,
+			"new_value": 255
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:849",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 234,
+			"new_value": 236
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:854",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 506,
+			"new_value": 509
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:859",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 242,
+			"new_value": 245
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:862",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 427,
+			"new_value": 431
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:868",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 236,
+			"new_value": 238
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:871",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 509,
+			"new_value": 512
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:878",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 245,
+			"new_value": 248
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:885",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 431,
+			"new_value": 435
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:885",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 331,
+			"new_value": 327
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:885",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 238,
+			"new_value": 240
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:887",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 255,
+			"new_value": 259
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:896",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 512,
+			"new_value": 515
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:899",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 248,
+			"new_value": 251
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:907",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 327,
+			"new_value": 323
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:907",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 435,
+			"new_value": 439
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:910",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 259,
+			"new_value": 263
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:916",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 240,
+			"new_value": 242
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:919",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 515,
+			"new_value": 518
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:925",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 251,
+			"new_value": 254
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:932",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 323,
+			"new_value": 319
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:934",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 439,
+			"new_value": 443
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:937",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 263,
+			"new_value": 267
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:939",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 242,
+			"new_value": 244
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:948",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 518,
+			"new_value": 521
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:953",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 254,
+			"new_value": 257
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:957",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 443,
+			"new_value": 447
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:964",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 244,
+			"new_value": 246
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:966",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 319,
+			"new_value": 315
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:974",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 267,
+			"new_value": 271
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:976",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 466,
+			"new_value": 468
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:982",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 557,
+			"new_value": 554
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:985",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 315,
+			"new_value": 311
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:987",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 447,
+			"new_value": 451
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:994",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 246,
+			"new_value": 248
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:17:994",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 271,
+			"new_value": 275
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:1",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 468,
+			"new_value": 470
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:7",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 554,
+			"new_value": 551
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:9",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 521,
+			"new_value": 524
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:15",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 257,
+			"new_value": 260
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:20",
+			"object_type": "BallData",
+			"object_id": 12572829,
+			"changed_property": "XPosition",
+			"old_value": 52,
+			"new_value": 54
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:22",
+			"object_type": "BallData",
+			"object_id": 12572829,
+			"changed_property": "YPosition",
+			"old_value": 271,
+			"new_value": 266
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:30",
+			"object_type": "BallData",
+			"object_id": 46046605,
+			"changed_property": "XPosition",
+			"old_value": 294,
+			"new_value": 298
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:33",
+			"object_type": "BallData",
+			"object_id": 46046605,
+			"changed_property": "YPosition",
+			"old_value": 184,
+			"new_value": 188
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:40",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"changed_property": "XPosition",
+			"old_value": 563,
+			"new_value": 565
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:44",
+			"object_type": "BallData",
+			"object_id": 11766267,
+			"changed_property": "YPosition",
+			"old_value": 466,
+			"new_value": 462
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:51",
+			"object_type": "BallData",
+			"object_id": 38787544,
+			"changed_property": "XPosition",
+			"old_value": 438,
+			"new_value": 433
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:53",
+			"object_type": "BallData",
+			"object_id": 38787544,
+			"changed_property": "YPosition",
+			"old_value": 437,
+			"new_value": 438
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:60",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "XPosition",
+			"old_value": 490,
+			"new_value": 494
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:63",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "YPosition",
+			"old_value": 293,
+			"new_value": 295
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:70",
+			"object_type": "BallData",
+			"object_id": 38787544,
+			"changed_property": "XPosition",
+			"old_value": 433,
+			"new_value": 428
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:72",
+			"object_type": "BallData",
+			"object_id": 38787544,
+			"changed_property": "YPosition",
+			"old_value": 438,
+			"new_value": 439
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:74",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "XPosition",
+			"old_value": 494,
+			"new_value": 498
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:83",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "YPosition",
+			"old_value": 295,
+			"new_value": 297
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:86",
+			"object_type": "BallData",
+			"object_id": 38787544,
+			"changed_property": "XPosition",
+			"old_value": 428,
+			"new_value": 423
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:91",
+			"object_type": "BallData",
+			"object_id": 38787544,
+			"changed_property": "YPosition",
+			"old_value": 439,
+			"new_value": 440
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:97",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "XPosition",
+			"old_value": 498,
+			"new_value": 502
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:100",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "YPosition",
+			"old_value": 297,
+			"new_value": 299
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:103",
+			"object_type": "BallData",
+			"object_id": 38787544,
+			"changed_property": "XPosition",
+			"old_value": 423,
+			"new_value": 418
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:109",
+			"object_type": "BallData",
+			"object_id": 38787544,
+			"changed_property": "YPosition",
+			"old_value": 440,
+			"new_value": 441
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:115",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "XPosition",
+			"old_value": 502,
+			"new_value": 506
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:118",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "YPosition",
+			"old_value": 299,
+			"new_value": 301
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:123",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 311,
+			"new_value": 307
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:129",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 275,
+			"new_value": 279
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:131",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "XPosition",
+			"old_value": 506,
+			"new_value": 510
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:136",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "YPosition",
+			"old_value": 301,
+			"new_value": 303
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:142",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 307,
+			"new_value": 303
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:145",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 279,
+			"new_value": 283
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:150",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "XPosition",
+			"old_value": 510,
+			"new_value": 514
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:155",
+			"object_type": "BallData",
+			"object_id": 13543581,
+			"changed_property": "YPosition",
+			"old_value": 303,
+			"new_value": 305
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:159",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 303,
+			"new_value": 299
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:163",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 451,
+			"new_value": 455
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:168",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 248,
+			"new_value": 250
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:172",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 283,
+			"new_value": 287
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:178",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 524,
+			"new_value": 527
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:181",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 260,
+			"new_value": 263
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:187",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 470,
+			"new_value": 472
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:192",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 551,
+			"new_value": 548
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:195",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 455,
+			"new_value": 459
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:199",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 250,
+			"new_value": 252
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:204",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 299,
+			"new_value": 295
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:210",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 287,
+			"new_value": 291
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:213",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 527,
+			"new_value": 530
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:219",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 263,
+			"new_value": 266
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:223",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 295,
+			"new_value": 291
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:228",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 291,
+			"new_value": 295
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:232",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 530,
+			"new_value": 533
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:236",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 266,
+			"new_value": 269
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:244",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 291,
+			"new_value": 287
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:246",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 252,
+			"new_value": 254
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:249",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 459,
+			"new_value": 463
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:254",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 295,
+			"new_value": 299
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:263",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 472,
+			"new_value": 474
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:270",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 548,
+			"new_value": 545
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:273",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 463,
+			"new_value": 467
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:281",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 299,
+			"new_value": 303
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:284",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 254,
+			"new_value": 256
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:292",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 533,
+			"new_value": 536
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:318",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 287,
+			"new_value": 283
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:322",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 269,
+			"new_value": 272
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:324",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 283,
+			"new_value": 279
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:332",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 303,
+			"new_value": 307
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:333",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 536,
+			"new_value": 539
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:337",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 272,
+			"new_value": 275
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:339",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 279,
+			"new_value": 275
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:341",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 307,
+			"new_value": 311
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:347",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 539,
+			"new_value": 542
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:349",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 275,
+			"new_value": 278
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:351",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 467,
+			"new_value": 471
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:354",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 256,
+			"new_value": 258
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:357",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "XPosition",
+			"old_value": 542,
+			"new_value": 545
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:360",
+			"object_type": "BallData",
+			"object_id": 41580444,
+			"changed_property": "YPosition",
+			"old_value": 278,
+			"new_value": 281
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:363",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "XPosition",
+			"old_value": 471,
+			"new_value": 475
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:366",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "XPosition",
+			"old_value": 275,
+			"new_value": 271
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:368",
+			"object_type": "BallData",
+			"object_id": 4620049,
+			"changed_property": "YPosition",
+			"old_value": 258,
+			"new_value": 260
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:370",
+			"object_type": "BallData",
+			"object_id": 22882960,
+			"changed_property": "YPosition",
+			"old_value": 311,
+			"new_value": 315
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:373",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "XPosition",
+			"old_value": 474,
+			"new_value": 476
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:376",
+			"object_type": "BallData",
+			"object_id": 38679683,
+			"changed_property": "YPosition",
+			"old_value": 545,
+			"new_value": 542
+		},
+		{
+			"time_stamp": "09.06.2022 20:56:18:376",
+			"event": "Completed"
+		}
+	]
+}

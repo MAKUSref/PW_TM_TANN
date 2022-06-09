@@ -6,7 +6,7 @@ using Presentation.Model;
 namespace ModelTests
 {
     [TestClass]
-    public class MainModelTest
+    public class ModelClassTest
     {
         private ModelAbstractApi? _model;
         private LogicAbstractApi _testLogic = new TestLogic(10, 10);
